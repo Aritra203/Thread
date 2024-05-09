@@ -89,8 +89,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/threads.git
-cd threads
+git clone https://github.com/Aritra203/Thread.git
 ```
 
 **Installation**
